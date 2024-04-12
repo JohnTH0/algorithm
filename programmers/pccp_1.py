@@ -1,6 +1,7 @@
 """
+붕대 감기
 https://school.programmers.co.kr/learn/courses/30/lessons/250137
-입출력 예
+lv 1
 bandage	health	attacks	result
 [5, 1, 5]	30	[[2, 10], [9, 15], [10, 5], [11, 5]]	5
 """

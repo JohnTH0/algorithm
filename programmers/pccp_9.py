@@ -1,4 +1,7 @@
 """
+이웃 한 칸
+https://school.programmers.co.kr/learn/courses/30/lessons/250125
+lv 1
 보드의 각 칸에 칠해진 색깔 이름이 담긴 이차원 문자열 리스트 board와 고른 칸의 위치를 나타내는 두 정수 h, w가 주어질 때 
 board[h][w]와 이웃한 칸들 중 같은 색으로 칠해져 있는 칸의 개수를 return 하도록 solution 함수를 완성해 주세요.
 1. 정수를 저장할 변수 n을 만들고 board의 길이를 저장합니다.
