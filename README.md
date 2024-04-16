@@ -24,6 +24,11 @@ Programmers 달리기 경주<br>
 - time: 23min<br>
 - review: lambda 사용법
 </details>
+<details>
+<summary>24.04.15</summary>
+Programmers 추억점수 <br>
+- time: 13min
+</details>
 
 
 
