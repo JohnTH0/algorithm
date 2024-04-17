@@ -5,7 +5,7 @@
 <summary>24.04.11</summary>
 Programmers pccp_1번<br>
 - time: 1h 40min<br>
-review: 이차원 배열 for 반복문 확인<br>
+- review: 이차원 배열 for 반복문 확인<br>
 </details>
 <details>
 <summary>24.04.12</summary>
@@ -28,6 +28,12 @@ Programmers 달리기 경주<br>
 <summary>24.04.15</summary>
 Programmers 추억점수 <br>
 - time: 13min
+</details>
+<details>
+<summary>24.04.18</summary>
+Programmers 공원산책 <br>
+- time: 2h 40min<br>
+- review: row column 순서 및 조건 제대로 확인
 </details>
 
 
