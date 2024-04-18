@@ -34,6 +34,9 @@ Programmers 추억점수 <br>
 Programmers 공원산책 <br>
 - time: 2h 40min<br>
 - review: row column 순서 및 조건 제대로 확인
+Programmers pccp_10번<br>
+- time: 14 min<br>
+- review: 주어진 조건의 기준이 되는 고정값을 만드는 방법
 </details>
 
 
