@@ -38,6 +38,16 @@ Programmers pccp_10번<br>
 - time: 14 min<br>
 - review: 주어진 조건의 기준이 되는 고정값을 만드는 방법
 </details>
+<details>
+<summary>24.04.24</summary>
+Programmers 가장 많이 받은 선물 <br>
+- time: 3h<br>
+- review: 함수공부 필요(list(zip(*g)))<br>
+Programmers 바탕화면 정리<br>
+- time: 20 min<br>
+- review: 가장 많이 받은 선물과 비슷한 문제, 리스트 변형
+</details>
+
 
 
 
