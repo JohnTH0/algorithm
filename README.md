@@ -47,7 +47,13 @@ Programmers 바탕화면 정리<br>
 - time: 20 min<br>
 - review: 가장 많이 받은 선물과 비슷한 문제, 리스트 변형
 </details>
-
+<details>
+<summary>24.04.29</summary>
+Programmers 덧칠하기 <br>
+- time: 1h 40min<br>
+Programmers 대충 만든 자판 <br>
+- time: 55min<br>
+</details>
 
 
 
