@@ -2,6 +2,7 @@
 회문 검증 문제
 대소문자 구분하지 않음
 영문 숫자만 대상
+lv 1
 """
 
 def solution(sentence):

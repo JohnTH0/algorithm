@@ -17,10 +17,10 @@ Programmers 달리기 경주<br>
 </details>
 <details>
 <summary>24.04.14</summary>
-파이썬 알고리즘 인터뷰 유효한 팰린드롬<br>
+algorithm interview 유효한 팰린드롬<br>
 - time: 7min
 - review: 파이썬 문자열 슬라이싱 속도<br>
-파이썬 알고리즘 인터뷰 로그 파일 재정렬<br>
+algorithm interview 로그 파일 재정렬<br>
 - time: 23min<br>
 - review: lambda 사용법
 </details>
@@ -33,7 +33,7 @@ Programmers 추억점수 <br>
 <summary>24.04.18</summary>
 Programmers 공원산책 <br>
 - time: 2h 40min<br>
-- review: row column 순서 및 조건 제대로 확인
+- review: row column 순서 및 조건 제대로 확인<br>
 Programmers pccp_10번<br>
 - time: 14 min<br>
 - review: 주어진 조건의 기준이 되는 고정값을 만드는 방법
@@ -53,6 +53,14 @@ Programmers 덧칠하기 <br>
 - time: 1h 40min<br>
 Programmers 대충 만든 자판 <br>
 - time: 55min<br>
+</details>
+<details>
+<summary>24.04.30</summary>
+algorithm interview 가장 흔한 단어<br>
+- time: 15min<br>
+- review: 복수의 경우도 추가적으로 확인<br>
+algorithm interview 그룹 애너그램<br>
+- time: 7min<br>
 </details>
 
 
