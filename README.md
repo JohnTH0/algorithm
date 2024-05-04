@@ -72,3 +72,10 @@ Programmers 카드뭉치 <br>
 - time: 15min<br>
 - review: deque 이용 방법 확인<br>
 </details>
+<details>
+<summary>24.05.04</summary>
+Programmers 둘만의 암호 <br>
+- time: 1h 13min<br>
+Programmers 크기가 작은 부분 문자열 <br>
+- time: 8min<br>
+</details>
