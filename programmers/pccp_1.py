@@ -46,11 +46,6 @@ def solution(bandage, health, attacks):
     hp = health
     start = 1
     for i, j in attacks:
-        print("공격시간 i :::", i)
-        print("공격대미지 j :::", j)
-        print("start:::", start)
-        print("이전 체력::",hp)
-        print(i - start)
         # 공격받기 전까지 회복량 계산
         hp += ((i - start) // bandage[0]) * bandage[2] + (i - start) * bandage[1] # 0 + 1
         """
@@ -61,13 +56,11 @@ def solution(bandage, health, attacks):
         (i - start) * bandage[1] 초당 회복량 * 공격까지의 텀
         """
         start = i + 1
-        print("after start:::", start)
 
         if hp >= health:
             hp = health
         hp -= j
-        print("공격받은 후 체력::",hp)
-        print("\n")
+
         if hp <= 0:
             return -1
     return hp
