@@ -88,3 +88,8 @@ Programmers 문자열 나누기 <br>
 Programmers 햄버거 만들기 <br>
 - time: 19min<br>
 </details>
+<summary>24.05.07</summary>
+algorithm interview 두 수의 합 <br>
+- time: 15min<br>
+- review: 동일 for문을 사용해도 시간복잡도가 낮은 경우 존재
+</details>
