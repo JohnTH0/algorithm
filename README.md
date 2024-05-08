@@ -99,5 +99,7 @@ algorithm interview 두 수의 합 <br>
 <summary>24.05.08</summary>
 Programmers 소수만들기 <br>
 - time: 30min<br>
-- review: 접근은 맞았으나 itertools lib 확인 필요
+- review: 접근은 맞았으나 itertools lib 확인 필요<br>
+Programmers 숫자 짝꿍 <br>
+- time: 16min<br>
 </details>
