@@ -84,12 +84,20 @@ Programmers 크기가 작은 부분 문자열 <br>
 Programmers 문자열 나누기 <br>
 - time: 24min<br>
 </details>
+<details>
 <summary>24.05.06</summary>
 Programmers 햄버거 만들기 <br>
 - time: 19min<br>
 </details>
+<details>
 <summary>24.05.07</summary>
 algorithm interview 두 수의 합 <br>
 - time: 15min<br>
 - review: 동일 for문을 사용해도 시간복잡도가 낮은 경우 존재
+</details>
+<details>
+<summary>24.05.08</summary>
+Programmers 소수만들기 <br>
+- time: 30min<br>
+- review: 접근은 맞았으나 itertools lib 확인 필요
 </details>
