@@ -102,4 +102,7 @@ Programmers 소수만들기 <br>
 - review: 접근은 맞았으나 itertools lib 확인 필요<br>
 Programmers 숫자 짝꿍 <br>
 - time: 16min<br>
+Programmers 신규 아이디 추천 <br>
+- time: 52min<br>
+- review: 정규식 풀이, ljust()/rjust()
 </details>
