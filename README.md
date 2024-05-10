@@ -117,8 +117,10 @@ Programmers 키패드 누르기<br>
 <summary>24.05.10</summary>
 Programmers 최댓값과 최솟값 <br>
 - time: 3min<br>
-- review: map함수 
-Programmers 성격유형 검사하기
-- time: 10hour over
-- review: 접근이 맞아도 잘 안풀리면 더 세분화작업 필요
+- review: map함수<br> 
+Programmers 성격유형 검사하기<br>
+- time: 10hour over<br>
+- review: 접근이 맞아도 잘 안풀리면 더 세분화작업 필요<br>
+Programmers 옹알이<br>
+- time: 9min<br>
 </details>
