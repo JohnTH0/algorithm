@@ -113,3 +113,9 @@ Programmers 문자열 내림차순 정렬 <br>
 Programmers 키패드 누르기<br>
 - time: 45min<br>
 </details>
+<details>
+<summary>24.05.10</summary>
+Programmers 최댓값과 최솟값 <br>
+- time: 3min<br>
+- review: map함수 
+</details>
