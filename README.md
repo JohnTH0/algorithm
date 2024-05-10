@@ -123,4 +123,6 @@ Programmers 성격유형 검사하기<br>
 - review: 접근이 맞아도 잘 안풀리면 더 세분화작업 필요<br>
 Programmers 옹알이<br>
 - time: 9min<br>
+Programmers 올바른 괄호<br>
+- time: 7min<br>
 </details>
