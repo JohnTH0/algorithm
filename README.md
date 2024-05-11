@@ -130,4 +130,7 @@ Programmers 올바른 괄호<br>
 <summary>24.05.11</summary>
 Programmers 옹알이 (2) <br>
 - time: 15min<br>
+Programmers 개인정보수집 유효기간 <br>
+- time: 46min<br>
+- review: 접근이 맞아도 잘 안풀리면 더 세분화작업 필요<br>
 </details>
