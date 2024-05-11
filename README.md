@@ -121,8 +121,13 @@ Programmers 최댓값과 최솟값 <br>
 Programmers 성격유형 검사하기<br>
 - time: 10hour over<br>
 - review: 접근이 맞아도 잘 안풀리면 더 세분화작업 필요<br>
-Programmers 옹알이<br>
+Programmers 옹알이 (1) <br>
 - time: 9min<br>
 Programmers 올바른 괄호<br>
 - time: 7min<br>
+</details>
+<details>
+<summary>24.05.11</summary>
+Programmers 옹알이 (2) <br>
+- time: 15min<br>
 </details>
