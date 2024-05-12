@@ -1,6 +1,7 @@
 """
 소수 만들기
 https://school.programmers.co.kr/learn/courses/30/lessons/12977
+lv 1
 """
 
 import math

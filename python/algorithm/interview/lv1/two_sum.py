@@ -1,6 +1,6 @@
 """
 07 두 수의 합
-
+lv 1
 """
 
 def solution(nums:list, target:int) -> list[int]:
