@@ -142,4 +142,6 @@ Programmers 신고 결과 받기 <br>
 - time: 49min<br>
 Programmers 체육복 <br>
 - time: 21min<br>
+Programmers 최솟값 만들기 <br>
+- time: 1min<br>
 </details>
