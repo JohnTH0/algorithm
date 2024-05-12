@@ -136,7 +136,10 @@ Programmers 개인정보수집 유효기간 <br>
 Programmers 크레인 인형뽑기 게임 <br>
 - time: 37min<br>
 </details>
-<summary>24.05.11</summary>
+<details>
+<summary>24.05.12</summary>
 Programmers 신고 결과 받기 <br>
 - time: 49min<br>
+Programmers 체육복 <br>
+- time: 21min<br>
 </details>
