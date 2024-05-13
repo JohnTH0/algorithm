@@ -149,4 +149,9 @@ Programmers 최솟값 만들기 <br>
 Programmers JadenCase 문자열 만들기<br>
 - time: 15min over<br>
 - review: capitalize()함수, "".join 시 공백활용 <br>
+Interview 세 수의 합<br>
+- review: 투포인터 학습문제<br>
+Programmers 구명보트<br>
+- time: 20min over<br>
+- review: 투포인터 연습문제 <br>
 </details>
