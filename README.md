@@ -145,3 +145,8 @@ Programmers 체육복 <br>
 Programmers 최솟값 만들기 <br>
 - time: 1min<br>
 </details>
+<summary>24.05.13</summary>
+Programmers JadenCase 문자열 만들기<br>
+- time: 15min over<br>
+- review: capitalize()함수, "".join 시 공백활용 <br>
+</details>
