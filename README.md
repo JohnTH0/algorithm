@@ -160,4 +160,6 @@ Programmers 이진 변환 반복하기<br>
 - time: 12min<br>
 Programmers 숫자의 표현<br>
 - time: 17min<br>
+Programmers 다음 큰 숫자<br>
+- time: 6min<br>
 </details>
