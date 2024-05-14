@@ -6,7 +6,7 @@ x의 모든 0을 제거합니다.
 x의 길이를 c라고 하면, x를 "c를 2진법으로 표현한 문자열"로 바꿉니다.
 """
 
-def solution(s:list):
+def solution(s:list) -> list:
     count = 0
     del_zero = 0
     while True:

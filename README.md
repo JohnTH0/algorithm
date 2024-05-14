@@ -158,4 +158,6 @@ Programmers 구명보트<br>
 <summary>24.05.14</summary>
 Programmers 이진 변환 반복하기<br>
 - time: 12min<br>
+Programmers 숫자의 표현<br>
+- time: 17min<br>
 </details>
