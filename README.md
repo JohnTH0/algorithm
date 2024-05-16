@@ -145,6 +145,7 @@ Programmers 체육복 <br>
 Programmers 최솟값 만들기 <br>
 - time: 1min<br>
 </details>
+<details>
 <summary>24.05.13</summary>
 Programmers JadenCase 문자열 만들기<br>
 - time: 15min over<br>
@@ -155,6 +156,7 @@ Programmers 구명보트<br>
 - time: 20min over<br>
 - review: 투포인터 연습문제 <br>
 </details>
+<details>
 <summary>24.05.14</summary>
 Programmers 이진 변환 반복하기<br>
 - time: 12min<br>
@@ -162,4 +164,10 @@ Programmers 숫자의 표현<br>
 - time: 17min<br>
 Programmers 다음 큰 숫자<br>
 - time: 6min<br>
+</details>
+<details>
+<summary>24.05.16</summary>
+Programmers 짝지어 제거하기<br>
+- time: 9min<br>
+피보나치 수열 접근법
 </details>
