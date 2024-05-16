@@ -17,10 +17,10 @@ Programmers 달리기 경주<br>
 </details>
 <details>
 <summary>24.04.14</summary>
-algorithm interview 유효한 팰린드롬<br>
+Leetcode 유효한 팰린드롬<br>
 - time: 7min
 - review: 파이썬 문자열 슬라이싱 속도<br>
-algorithm interview 로그 파일 재정렬<br>
+Leetcode 로그 파일 재정렬<br>
 - time: 23min<br>
 - review: lambda 사용법
 </details>
@@ -56,10 +56,10 @@ Programmers 대충 만든 자판 <br>
 </details>
 <details>
 <summary>24.04.30</summary>
-algorithm interview 가장 흔한 단어<br>
+Leetcode 가장 흔한 단어<br>
 - time: 15min<br>
 - review: 복수의 경우도 추가적으로 확인<br>
-algorithm interview 그룹 애너그램<br>
+Leetcode 그룹 애너그램<br>
 - time: 7min<br>
 </details>
 </details>
@@ -91,7 +91,7 @@ Programmers 햄버거 만들기 <br>
 </details>
 <details>
 <summary>24.05.07</summary>
-algorithm interview 두 수의 합 <br>
+Leetcode 두 수의 합 <br>
 - time: 15min<br>
 - review: 동일 for문을 사용해도 시간복잡도가 낮은 경우 존재
 </details>
@@ -150,7 +150,7 @@ Programmers 최솟값 만들기 <br>
 Programmers JadenCase 문자열 만들기<br>
 - time: 15min over<br>
 - review: capitalize()함수, "".join 시 공백활용 <br>
-Interview 세 수의 합<br>
+Leetcode 세 수의 합<br>
 - review: 투포인터 학습문제<br>
 Programmers 구명보트<br>
 - time: 20min over<br>
@@ -169,5 +169,7 @@ Programmers 다음 큰 숫자<br>
 <summary>24.05.16</summary>
 Programmers 짝지어 제거하기<br>
 - time: 9min<br>
-피보나치 수열 접근법
+피보나치 수열 접근법<br>
+Leetcode 가장 흔한 단어<br>
+- time: 58min<br>
 </details>
