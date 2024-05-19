@@ -173,3 +173,9 @@ Programmers 짝지어 제거하기<br>
 Leetcode 가장 흔한 단어<br>
 - time: 58min<br>
 </details>
+<details>
+<summary>24.05.19</summary>
+Programmers 멀리 뛰기<br>
+- time: over
+- review: DP(Dynamic Programming) 학습
+</details>
