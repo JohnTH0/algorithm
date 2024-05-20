@@ -176,6 +176,14 @@ Leetcode 가장 흔한 단어<br>
 <details>
 <summary>24.05.19</summary>
 Programmers 멀리 뛰기<br>
-- time: over
-- review: DP(Dynamic Programming) 학습
+- time: over<br>
+- review: DP(Dynamic Programming) 학습<br>
+</details>
+<details>
+<summary>24.05.20</summary>
+Programmers 영어 끝말 잇기<br>
+- time: over<br>
+- review: 접근은 맞는데 식으로 구현하는데 시간 소비<br>
+Programmers 최소공배수<br>
+- review: 3.9 이상 lcm 함수 추가, 최대공약수로 푸는 법만 확인<br>
 </details>

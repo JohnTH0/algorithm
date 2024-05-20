@@ -1,3 +1,9 @@
+"""
+멀리뛰기
+https://school.programmers.co.kr/learn/courses/30/lessons/12914
+lv 2
+"""
+
 def solution(n):
     # 모든 자연수를 포함하기 위해 0부터 시작
     dp = [0] * (n + 1)
@@ -6,5 +12,3 @@ def solution(n):
     for i in range(2, n + 1):
         dp[i] = dp[i-1] + dp[i-2]
     return dp[n] // 1234567
-
-solution(3)
