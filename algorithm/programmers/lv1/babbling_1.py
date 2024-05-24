@@ -5,7 +5,12 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120956
 """
 
 def solution(babbling:list) -> int:
+    # 횟수를 세기 위한 변수 선언
     count = 0
+    """
+    중첩 for 문을 사용하여 각 단어를 구성하는 알파벳을 하나씩 추가하고
+    추가하는 도중 해당하는 말할 수 있는 단어 안에 포함되는 경우 초기화
+    """
     for bab in babbling:
         bab_check_str = ""
         for i in range(len(bab)):

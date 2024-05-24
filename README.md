@@ -193,3 +193,8 @@ Programmers 요격 시스템<br>
 - time: over<br>
 - review: 접근은 맞는데 식으로 구현하는데 시간 소비<br>
 </details>
+<summary>24.05.24</summary>
+Programmers 주식가격 <br>
+- time: 1hour <br>
+- review: 첫 풀이에서 효율성 탈락, 이후 stack풀이<br>
+</details>
