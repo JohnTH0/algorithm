@@ -199,3 +199,7 @@ Programmers 주식가격 <br>
 - time: 1hour <br>
 - review: 첫 풀이에서 효율성 탈락, 이후 stack풀이<br>
 </details>
+<details>
+<summary>24.05.29</summary>
+Baekjoon 1단계 풀이<br>
+</details>
