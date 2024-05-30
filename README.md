@@ -205,5 +205,5 @@ Baekjoon 1단계 풀이<br>
 </details>
 <details>
 <summary>24.05.30</summary>
-Baekjoon 2단계 풀이 진행<br>
+Baekjoon 2단계 풀이<br>
 </details>
