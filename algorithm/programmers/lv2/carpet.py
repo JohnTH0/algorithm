@@ -4,34 +4,19 @@ https://school.programmers.co.kr/learn/courses/30/lessons/42842
 lv 2
 """
 
-import math
 def solution(brown, yellow):
-    sum_grid = brown + yellow
-    def prime_factors(n):
-        factors = []
-        i = 2
-        while i <= n:
-            if n % i == 0:
-                factors.append(i)
-                n = n / i
-            else:
-                i = i + 1
-        return factors
+    # 전체 격자 개수를 w * h 라고 할때,
+    # brown = 2 * w + 2 * h - 4 (테두리 격자의 수)
+    # yellow = (w - 2) * (h - 2) (내부 격자의 수)
+    total = brown + yellow
     
-    factors = sorted(prime_factors(sum_grid))
-    print(factors)
-    import time
-    i = 1
-    while True:
-        brown_rows, yellow_rows = math.prod(factors[:i]), math.prod(factors[i:])
-        print(brown_rows)
-        print(yellow_rows)
-        time.sleep(1)
-        if yellow_rows + 2 == brown_rows:
-            break
-        i += 1
+    # yellow길이가 1인 경우, 최소 brown의 길이는 3부터 
+    for height in range(3, total // 3 + 1):
+        if total % height == 0:
+            width = total // height
+            if (width - 2) * (height - 2) == yellow:
+                return [width, height]
 
-
-brown = 48
-yellow = 48
+brown = 24
+yellow =24            
 solution(brown, yellow)

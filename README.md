@@ -217,4 +217,7 @@ Baekjoon 3단계 풀이<br>
 <details>
 <summary>24.06.02</summary>
 Baekjoon 4단계 풀이<br>
+Programmers 카펫 <br>
+- time: over<br>
+- review: 조건이 주어졌을때의 수식 세우기<br>
 </details>
