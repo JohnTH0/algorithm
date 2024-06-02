@@ -220,4 +220,6 @@ Baekjoon 4단계 풀이<br>
 Programmers 카펫 <br>
 - time: over<br>
 - review: 조건이 주어졌을때의 수식 세우기<br>
+Programmers 과제 진행하기 <br>
+- time: 1hour<br>
 </details>
