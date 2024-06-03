@@ -208,6 +208,7 @@ Baekjoon 1단계 풀이<br>
 Baekjoon 2단계 풀이<br>
 </details>
 </details>
+
 <details>
 <summary>24.06</summary>
 <details>
@@ -221,5 +222,10 @@ Programmers 카펫 <br>
 - time: over<br>
 - review: 조건이 주어졌을때의 수식 세우기<br>
 Programmers 과제 진행하기 <br>
-- time: 1hour<br>
+- time: 1hour <br>
+</details>
+<details>
+<summary>24.06.03</summary>
+Programmers 광물캐기<br>
+- time: 1hour <br>
 </details>

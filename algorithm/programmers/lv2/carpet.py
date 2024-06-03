@@ -12,11 +12,12 @@ def solution(brown, yellow):
     
     # yellow길이가 1인 경우, 최소 brown의 길이는 3부터 
     for height in range(3, total // 3 + 1):
+        # 나머지가 0 인 경우에 사각형이 되고, 이 경우에 주어진 조건을 만족하는 경우를 확인
         if total % height == 0:
             width = total // height
             if (width - 2) * (height - 2) == yellow:
                 return [width, height]
 
 brown = 24
-yellow =24            
+yellow = 24 
 solution(brown, yellow)
